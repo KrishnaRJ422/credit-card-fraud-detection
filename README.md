@@ -1,5 +1,8 @@
 # credit-card-fraud-detection
 An empirical comparative study on performance of different machine learning models(supervised,un supervised,self supervised) in detecting fraud.
+
+Link to deployment repository: https://github.com/KrishnaRJ422/credit-fraud-detection
+
 References:
 https://github.com/curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras/blob/master/fraud_detection.ipynb		
 

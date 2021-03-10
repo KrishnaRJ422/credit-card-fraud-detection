@@ -3,9 +3,9 @@ An empirical comparative study on performance of different machine learning mode
 
 This work is part of my mini project submission for MBA in 3rd semester.
 
-HTML view of the code: https://krishnarj422.github.io/credit-card-fraud-detection/MiniProject_Code.html
+HTML view of this code: https://krishnarj422.github.io/credit-card-fraud-detection/MiniProject_Code.html
 
-Link to deployment repository: https://github.com/KrishnaRJ422/credit-fraud-detection
+Link to my deployment repository: https://github.com/KrishnaRJ422/credit-fraud-detection
 
 Link to my automated fraud detection application: https://credit-fraud-detection.herokuapp.com/
 
